@@ -1,0 +1,36 @@
+C:\Users\tungn\Desktop\CoffeeShop\DAL\bin\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\DAL\bin\Debug\DAL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\DAL\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\DAL\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tungn\Desktop\CoffeeShop\DAL\obj\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\DAL\obj\Debug\DAL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\bin\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\bin\Debug\DAL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\obj\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\DAL\obj\Debug\DAL.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\DAL.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\DAL.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\PUBLIC.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\PUBLIC.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\DAL.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\DAL.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\PUBLIC.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\bin\Debug\PUBLIC.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\DAL\obj\Debug\DAL.pdb

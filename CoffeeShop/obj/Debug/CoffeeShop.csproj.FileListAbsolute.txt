@@ -1,0 +1,175 @@
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\Guna.UI2.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\BUL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\BUL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\DAL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCheckOut.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FEditTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FTableManager.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FSwitchTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMergeTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMenu.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMainMenu.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCategory.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStaff.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStatistic.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FBillInfo.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRevenue.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLoading.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLogin.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRegister.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FAccount.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\BUL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\Guna.UI2.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\DAL.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\BUL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\bin\Debug\DAL.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FAccount.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLoading.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLogin.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRegister.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FBillInfo.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRevenue.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStaff.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStatistic.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCategory.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCheckOut.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FEditTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMenu.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMergeTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FSwitchTable.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FTableManager.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMainMenu.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\BUL.dll
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\Guna.UI2.dll
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.dll
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.dll
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\DAL.dll
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\BUL.pdb
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.pdb
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.xml
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\bin\Debug\DAL.pdb
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FAccount.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLoading.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLogin.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRegister.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FBillInfo.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRevenue.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStaff.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStatistic.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCategory.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCheckOut.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FEditTable.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMenu.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMergeTable.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FSwitchTable.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FTableManager.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMainMenu.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\Working\Lập trình Windows\Quản lý quán cà phê\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\BUL.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\Guna.UI2.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\DAL.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\BUL.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.xml
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\DAL.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FAccount.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLoading.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLogin.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRegister.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FBillInfo.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRevenue.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStaff.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStatistic.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCategory.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCheckOut.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FEditTable.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMenu.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMergeTable.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FSwitchTable.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FTableManager.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMainMenu.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\BUL.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\Guna.UI2.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\DAL.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\BUL.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\PUBLIC.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\System.Data.SqlClient.xml
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\bin\Debug\DAL.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FAccount.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLoading.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FLogin.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRegister.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FBillInfo.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FRevenue.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStaff.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FStatistic.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCategory.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FCheckOut.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FEditTable.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMenu.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMergeTable.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FSwitchTable.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FTableManager.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FMainMenu.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb

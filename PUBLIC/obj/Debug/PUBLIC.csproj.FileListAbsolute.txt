@@ -1,0 +1,24 @@
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.pdb
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.dll
+C:\Users\tungn\Desktop\CoffeeShop\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.pdb
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csprojAssemblyReference.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.dll
+D:\HOC\HK2-NamII\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\bin\Debug\PUBLIC.pdb
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.dll
+D:\Hoc\HOC\HK2\NAM II\Lập Trình Windows\BT Cuoi Ki\CoffeeShop\PUBLIC\obj\Debug\PUBLIC.pdb
